@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## Table of Contents
 
-You can use the [editor on GitHub](https://github.com/MarikoAlvarado/operators-loops/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Home](https://marikoalvarado.github.io/reading-notes/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Mindset](https://marikoalvarado.github.io/growth-mindset/)
 
-### Markdown
+[Markdown](https://marikoalvarado.github.io/mark-down/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
 
-```markdown
-Syntax highlighted code block
+[Using Git](https://marikoalvarado.github.io/using-git/) 
 
-# Header 1
-## Header 2
-### Header 3
+[HTML](https://marikoalvarado.github.io/html-notes/)
 
-- Bulleted
-- List
+[CSS](https://marikoalvarado.github.io/css-notes/)
 
-1. Numbered
-2. List
+[JAVASCRIPT](https://marikoalvarado.github.io/java-script/)
 
-**Bold** and _Italic_ and `Code` text
+[Programming With JAVASCRIPT](https://marikoalvarado.github.io/more-javascript/)
 
-[Link](url) and ![Image](src)
-```
+[Operators and Loops with JAVASCRIPT](https://marikoalvarado.github.io/operators-loops/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# JAVASCRIPT Reading Notes
 
-### Jekyll Themes
+## Duckett: Duckett: JS&JQuery
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarikoAlvarado/operators-loops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Comparison and Logical Operators
 
-### Support or Contact
+- == *is equal to* for numbers, strings or booleans
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- != *is not equal to* for numbers, strings or booleans
+
+- === *strict equal to* check if data type and values are same
+
+- !== *strict not equal to* check that data type and values are **not** the same
+
+- *< or >*
+
+- *<= or >=*
+
+#### Logical Operators
+Can compare results of more than one comparison operator by:
+
+- && *to test more than one condition*
+
+- || *to test at least one of the conditions, resulting in all as either true or false*
+
+- ! *inverts a single boolean, if !true return false, if !false return true*
+
+#### For and While loops
+Loops continue to run until returned false. **for loops** uses a counter as a condition. There are three types of **for loops**:
+
+- **for** code runs for specific number of times it is told
+
+- **while** loops continuously as long as condition is *true*
+
+- **do-while** runs at least once even if condition is *false*
+
+
