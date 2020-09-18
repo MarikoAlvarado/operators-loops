@@ -8,6 +8,8 @@
 
 [The Coder's Computer](https://marikoalvarado.github.io/coding-computer/)
 
+[Computer Architecture and Logic](https://marikoalvarado.github.io/computer-archlogic/)
+
 [Using Git](https://marikoalvarado.github.io/using-git/) 
 
 [HTML](https://marikoalvarado.github.io/html-notes/)
